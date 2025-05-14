@@ -295,7 +295,6 @@ class Optimizer:
                 LastFEcount = stepFEcount
 
     def clean(self):
-        # В Python не требуется явное освобождение памяти, но оставим метод для совместимости
         pass
 
 
