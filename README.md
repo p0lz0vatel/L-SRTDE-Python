@@ -1,4 +1,4 @@
-# L-SRTDE: Success Rate-based Adaptive Differential Evolution
+# L-SRTDE: Success Rate-based Adaptive Differential Evolution (Python)
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
